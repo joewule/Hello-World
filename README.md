@@ -1,2 +1,2 @@
 # Hello-World
-Starting out on github..a trial aand test
+Starting out on github..a trial and test
